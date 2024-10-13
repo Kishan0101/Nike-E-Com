@@ -1,6 +1,3 @@
-Sure! Here is the `README.md` code formatted properly:
-
-```markdown
 # NIKE E-Commerce Website
 
 ### Overview
@@ -23,7 +20,6 @@ The **NIKE E-Commerce** website is a responsive single-page design aimed at show
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Kishan0101/Nike-E-Com.git
-   ```
 
 2. **Navigate to the project directory:**
    ```bash
