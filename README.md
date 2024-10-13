@@ -64,8 +64,9 @@ Nike-E-Com/
 └── .gitignore
 ```
 
-### Screenshot
-![Nike E-Com Homepage](./public/images/screenshot.png)
+### Screenshot![screenshot-localhost_5173-2024_10_14-01_17_39](https://github.com/user-attachments/assets/8db31577-9704-40be-ad7b-38e24b14024f)
+
+
 
 ### Future Improvements
 - **User Authentication:** Add login/logout functionality for user authentication.
